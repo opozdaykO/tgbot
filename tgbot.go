@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Syfaro/telegram-bot-api"
+	"telegram-bot-api"
 	//"github.com/lib/pq"
 	"log"
 )
